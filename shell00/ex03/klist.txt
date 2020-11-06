@@ -1,0 +1,5 @@
+Credentials cache: API:6A0F2804-F1F5-40F7-9BC4-21C2932F1D09
+        Principal: lbertran@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Oct  5 14:26:22 2020  Oct  6 14:26:22 2020  FPIA   krbtgt/42LYON.FR@42LYON.FR
